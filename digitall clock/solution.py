@@ -11,4 +11,3 @@ while not stop:
     st = input("Press 'q' to quit or any other key to continue: ")
     if st == "q":
         stop = True
-        
